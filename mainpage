@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Drin King 支援頁面</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Drin King - 支援頁面</h1>
+  <p>感謝您使用 Drin King！如果您在使用過程中遇到任何問題，歡迎透過以下方式與我們聯繫：</p>
+  <ul>
+    <li>📧 電郵聯絡：<a href="mailto:your.email@example.com">your.email@example.com</a></li>
+    <li>❓ 常見問題：<a href="#faq">請見下方</a></li>
+  </ul>
+
+  <h2 id="faq">常見問題</h2>
+  <p><strong>Q：這個 App 支援哪些語言？</strong><br>A：目前支援繁體中文與英文。</p>
+  <p><strong>Q：遊戲內容可以自訂嗎？</strong><br>A：可以！在每個遊戲裡點選「設定」即可自訂規則。</p>
+
+  <p>更多問題，歡迎聯絡我們！</p>
+</body>
+</html>
